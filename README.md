@@ -24,7 +24,7 @@ What you can do:
 
 What you can't do:
 - Clone the source code of the converter, and change its name to "*(Your name)*'s MIDI Converter". I mean, why would you do that?
-- Create ports of the converter in different programming languages, but with Windows support. There's already a Windows version, which is this one.
+- <s>Create ports of the converter in different programming languages, but with Windows support. There's already a Windows version, which is this one.</s> You are now allowed to create custom versions of KMC for Windows, as long as you credit me.
 
 ## Where did you get the idea?
 This was actually supposed to be a clone of [Free MIDI to MP3 Converter](http://mp3-tools.com/free-midi-to-mp3-converter.html), then I changed myself, and had the idea of making my OWN converter.
